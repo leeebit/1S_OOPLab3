@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="1S_OOPLab3.cpp" />
+    <ClCompile Include="Array.cpp" />
+    <ClCompile Include="ArrayIterator.cpp" />
+    <ClCompile Include="IIteratable.cpp" />
+    <ClCompile Include="IIterator.cpp" />
+    <ClCompile Include="Set.cpp" />
+    <ClCompile Include="Queue.cpp" />
+    <ClCompile Include="QueueIterator.cpp" />
+    <ClCompile Include="Stack.cpp" />
+    <ClCompile Include="StackIterator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Array.h" />
+    <ClInclude Include="ArrayIterator.h" />
+    <ClInclude Include="IIterable.h" />
+    <ClInclude Include="IIterator.h" />
+    <ClInclude Include="Set.h" />
+    <ClInclude Include="Queue.h" />
+    <ClInclude Include="QueueIterator.h" />
+    <ClInclude Include="Stack.h" />
+    <ClInclude Include="StackIterator.h" />
+  </ItemGroup>
+</Project>
